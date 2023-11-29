@@ -20,3 +20,6 @@ For deep GNNs, this work puts forward a folding method to optimize deep GNNs.
 <p align="center">
 <img width="900" src="Image/Folded.png">
 </p>
+
+
+We are organizing codes and they will be published later!
